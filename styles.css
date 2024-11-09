@@ -11,3 +11,17 @@
     font-family: "Verdana", sans-serif;
     color: palevioletred;
 }
+
+.recipe-header
+{
+    background-color: palevioletred;
+    color: green;
+    font-weight: bold;
+    font-family: "Arial", "Verdana", sans-serif;
+}
+
+.recipe-subheader
+{
+    color:green;
+    font-family: "Verdana", sans-serif;
+}
