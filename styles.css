@@ -1,0 +1,13 @@
+.index-header
+{
+    font-family: "Arial", "Verdana", sans-serif;
+    color: palevioletred;
+    background-color: green;
+    font-weight: bold;
+}
+
+.index-recipe
+{
+    font-family: "Verdana", sans-serif;
+    color: palevioletred;
+}
