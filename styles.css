@@ -25,17 +25,51 @@
     font-family: "Arial", "Verdana", sans-serif;
 }
 
-.recipe-header
+.recipe_container
 {
-    background-color: palevioletred;
-    color: green;
+    margin: 6px auto;
+    padding: 3px;
+    width: 615px;
+    background-color: white;
+    /* border: 5px solid black; */
+}
+
+.recipe_section
+{
+    display: block;
+    margin-top: 10px;
+    /* border: 5px solid pink; */
+}
+
+.recipe_subheader3
+{
+    display: block;
+    font-size: 1.17em;
     font-weight: bold;
+    padding: 3px;
+    color: #E84855;
     font-family: "Arial", "Verdana", sans-serif;
 }
 
-.recipe-subheader
+.recipe_subheader4
 {
-    color:green;
-    font-family: "Verdana", sans-serif;
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 3px;
+    color: #2D3047;
+    font-family: "Times New Roman", serif;
 }
+
+.recipe_list
+{
+    color: #2D3047;
+    width: 590px;
+    padding: 3px;
+    list-style-position: inside;
+    font-size: 14px;
+    font-family: "Arial", "Verdana", sans-serif;
+    /* border: 5px solid pink; */
+}
+
 
